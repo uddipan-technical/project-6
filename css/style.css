@@ -1,0 +1,104 @@
+.btn.btn-outline-success.my-sm-0 {
+    margin-left: 38px;
+    background: red;
+    color: #fff;
+    border-radius: 40px;
+}
+
+/*--head-section--*/
+
+a {
+    color: #8A5F8A;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.head-section{
+  height: 300px;
+  background-size: cover;
+}
+.head-left{margin-top: 20px;}
+.head-hidding{
+    font-weight: bold;
+    color: #6C97CF;
+}
+.head-p{
+    font-size: 20px;
+    color: #6C97CF;
+}
+ .head-right {
+    position: relative !important;
+    right: -404px;
+    top: -97px;
+}
+.nav-section{}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2.5rem;
+    padding-left: .5rem;
+}
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 2rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.blog-area{text-align: center;position: relative;top: -173px;font-weight: bold;}
+.blog-area h2{
+    font-weight: bolder;
+font-size: 40px;}
+.blog-area p{
+    font-weight: bold;
+    font-size: 30px
+}
+/*--head-end--*/
+
+.discription{}
+.total-dis{
+    padding-bottom: 155px;
+    margin-top: 100px
+}
+.dis-box{
+  margin-top: 87px;
+}
+.dis-box h2{font-weight: bolder;font-size: 26px;padding-bottom: 10px;}
+.dis-box p{color: #b9b9b9;line-height: 30px;}
+.dis-img{}
+.dis-img img{}
+.total-down-dis{background: #F2F2F2;
+    padding-bottom: 150px;
+}
+.total-down-dis-img{background: #ddd;margin-top: 150px;}
+.disk-box{margin-top: 216px;}
+.disk-box h2{font-weight: bold;margin-bottom: 20px;}
+.disk-box p{color: #2D2D2D;line-height: 30px;}
+.dis-last{height: 238px;text-align: center;}
+.dis-last h2{margin-top: 80px;font-weight: bold;color: red;}
+.dis-last h5{color: red;}
+.btn-fix{width: 135px;height: 35px;background: #FFA737;color: #fff;border-radius: 40px;position: relative;top: 60px;}
+.logo-png{
+    padding: 50px;
+    margin-left: 192px;
+}
+.logo-ul{}
+.logo-li{
+list-style: none;
+display: inline-block;
+padding-right: 73px;
+font-size: 20px;
+}
+.ul li a{}
+.elementor-screen-only{margin-left: 161px;}
+.fab.fa-facebook-f {
+    font-size: 30px;
+}
+.fab.fa-twitter {
+    font-size: 30px;
+    padding: 40px;
+}
+.fab.fa-google-plus {
+    font-size: 30px;
+}
+.col-md-auto{}
